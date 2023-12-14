@@ -11,5 +11,3 @@ The Euclidean distance measures the straight-line distance between two points in
 The Manhattan distance, also known as the L1 norm or taxicab distance, measures the distance between two points as the sum of the absolute differences of their coordinates. Similar to the Euclidean distance, the Manhattan distance matrix is computed, and dendrograms are created using different linkage methods.
 
 The resulting dendrograms visually represent the hierarchical relationships among data points, offering insights into potential clusters or groups within the dataset. This script provides a comprehensive approach to cluster analysis using both Euclidean and Manhattan distances, allowing users to explore and interpret the inherent structure of their data.
-
-Feel free to customize this explanation based on the specifics of your analysis and the audience for your GitHub repository.
